@@ -1,0 +1,83 @@
+/*
+Theme Name:           Flatsome
+Theme URI:            http://flatsome.uxthemes.com/
+Author:               UX-Themes
+Author URI:           http://www.uxthemes.com/
+Description:          Multi-Purpose Responsive WooCommerce Theme
+Version:              3.15.3
+Requires at least:    5.0.0
+Requires PHP:         5.6.20
+WC requires at least: 4.4.0
+Text Domain:          flatsome
+License:              http://themeforest.net/licenses
+License URI:          http://themeforest.net/licenses
+*/
+
+
+/***************
+All custom CSS should be added to Flatsome > Advanced > Custom CSS,
+or in the style.css of a Child Theme.
+***************/
+
+@-moz-keyframes spin {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  from {transform:rotate(0deg);}
+  to {transform:rotate(360deg);}
+}
+
+.spin {
+  animation: spin 1000ms linear infinite;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-up-enter-active,
+.slide-up-leave-active {
+  transition: all 0.25s ease-out;
+}
+
+.slide-up-enter-from {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.slide-up-leave-to {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+
+
+textarea::-webkit-scrollbar {
+  width: 2px;
+  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+textarea::-webkit-scrollbar-track {
+  -webkit-box-shadow: 0 0px 15px 7px #93c5fd;
+  -webkit-box-shadow: inset 0 0px 15px 7px #93c5fd;
+  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: #3b82f6;
+  outline: 1px solid #3b82f6;
+}

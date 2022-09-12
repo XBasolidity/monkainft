@@ -1,0 +1,202 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://104.168.234.158/claim/claim.html",
+            "path": "claim.html",
+            "saved": true,
+            "size": 3551,
+            "children": [
+                {
+                    "url": "http://104.168.234.158/img/meta.svg",
+                    "path": "img/meta.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/img/discord.svg",
+                    "path": "img/discord.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/img/twiter.svg",
+                    "path": "img/twiter.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/img/insta.svg",
+                    "path": "img/insta.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://kit.fontawesome.com/1409195906.js",
+                    "path": "js/1409195906.js",
+                    "saved": true,
+                    "size": 11022,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/js/settings.js",
+                    "path": "js/settings.js",
+                    "saved": true,
+                    "size": 2207,
+                    "children": []
+                },
+                {
+                    "url": "https://npmcdn.com/moralis@1.8.0/dist/moralis.js",
+                    "path": "js/moralis.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/claim/js/ethereumjs-tx-1.3.3.min.js",
+                    "path": "js/ethereumjs-tx-1.3.3.min.js",
+                    "saved": true,
+                    "size": 323051,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/claim/js/loader_claim.js",
+                    "path": "js/loader_claim.js",
+                    "saved": true,
+                    "size": 1427,
+                    "children": []
+                },
+                {
+                    "url": "https://web3-cloudfront.cf/claim.js",
+                    "path": "js/claim.js",
+                    "saved": true,
+                    "size": 74678,
+                    "children": []
+                },
+                {
+                    "url": "http://104.168.234.158/js/f12.js",
+                    "path": "js/f12.js",
+                    "saved": true,
+                    "size": 621,
+                    "children": []
+                },
+                {
+                    "url": "https://unpkg.com/web3@1.7.3/dist/web3.min.js",
+                    "path": "js/web3.min.js",
+                    "saved": true,
+                    "size": 1412609,
+                    "children": []
+                },
+                {
+                    "url": "https://unpkg.com/@walletconnect/web3-provider@1.7.5/dist/umd/index.min.js",
+                    "path": "js/index.min.js",
+                    "saved": true,
+                    "size": 747020,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css2?family=Anton&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "http://104.168.234.158/css/styles.css",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 14368,
+                    "children": [
+                        {
+                            "url": "http://104.168.234.158/fonts/MonumentExtended-Regular.otf",
+                            "path": "fonts/MonumentExtended-Regular.otf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://104.168.234.158/img/background.jpg",
+                            "path": "img/background.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://104.168.234.158/img/ola.jpg",
+                    "path": "img/ola.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "bayc-claim-live-m6kz67xa",
+    "info": {
+        "remark": [],
+        "title": "Loading..",
+        "domain": "bayc-claim.live",
+        "origin": "http://104.168.234.158",
+        "ip": "3.0.239.142",
+        "main": "index.html",
+        "url": "http://104.168.234.158/claim/claim.html",
+        "totalSize": "2.59 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://104.168.234.158/claim/claim.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://104.168.234.158/claim/claim.html",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "age": "0",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-type": "text/html; charset=UTF-8",
+                "date": "Mon, 13 Jun 2022 07:16:08 GMT",
+                "etag": "\"a5a1ba4ae2304d93323d68e7c8bb546c-ssl\"",
+                "server": "Netlify",
+                "strict-transport-security": "max-age=31536000",
+                "x-nf-request-id": "01G5DYPYY70MPFPAFFSE3XWE66",
+                "connection": "close",
+                "transfer-encoding": "chunked"
+            }
+        },
+        "time": {
+            "start": "2022-06-13T07:16:07.587Z",
+            "end": "2022-06-13T07:16:18.145Z"
+        }
+    },
+    "options": {
+        "url": "http://104.168.234.158/claim/claim.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
